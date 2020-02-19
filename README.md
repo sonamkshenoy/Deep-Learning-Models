@@ -1,3 +1,3 @@
-# Deep-Learning-Models  
+# Deep Learning Models And Algos  
 
-Collection of the main models used in Deep Learning
+Collection of the main models and algorithms used in Deep Learning
